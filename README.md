@@ -37,7 +37,7 @@ cd sentiment-analysis-chatbot
 
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
-```
+
 
 ### 3. Install the required dependencies
 
@@ -60,9 +60,7 @@ To showcase this project to recruiters, you can deploy it using Streamlit Cloud.
 2. Modify your chatbot script to work with Streamlit (if necessary).
 
 3. Run the following command to launch it on Streamlit locally:
-   ```bash
    streamlit run chatbot.py
-   ```
 
 4. If you want to deploy it, link your GitHub repository to Streamlit Cloud and deploy the app directly.
 
